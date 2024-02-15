@@ -32,7 +32,7 @@ public static void main(String[] args)
        System.out.println("sum is ");
        for(int i=0;i<n;i++)
        {
-       for(int j=0;j<n;j++)
+       for(int j=0;j<m;j++)
        {
        summat[i][j]=mat1[i][j]+mat2[i][j];
        System.out.print(summat[i][j]+"\t");

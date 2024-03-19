@@ -100,7 +100,7 @@ class Arraysearch
 	//recursive binery search 
 	int RecursiveBinerySearch(int [] arr,int first,int last,int n)
 	{
-		if(first<=last && first<arr.length-1)
+		if(first<=last && first<=arr.length-1)
 		{
 			int mid=first+(last-first)/2;
 			if(arr[mid]<n)

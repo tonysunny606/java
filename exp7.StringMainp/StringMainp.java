@@ -13,8 +13,8 @@ class StringMainp{
 	 System.out.println("LENGTH OF STRING S1 IS :"+s1.length());
 	 System.out.println("LENGTH OF STRING S2 IS :"+s2.length());
            // LOWER CASE 
-	 System.out.println("TO LOWER  CASE OF S1 IS"+s1.toLowerCase());
-	 System.out.println("TO LOWER CASE OF  S2 IS"+s2.toLowerCase());
+	 System.out.println("TO LOWER  CASE OF S1 IS:"+s1.toLowerCase());
+	 System.out.println("TO LOWER CASE OF  S2 IS:"+s2.toLowerCase());
 	 // UPPER CASE
 	 System.out.println("TO UPPER CASE OF S1 IS:"+s1.toUpperCase());
 	 System.out.println("TO UPPER CASE OF S2 IS:"+s2.toUpperCase());
